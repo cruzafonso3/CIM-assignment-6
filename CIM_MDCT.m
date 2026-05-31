@@ -10,7 +10,7 @@ close all; clear all;
 % ATENÇÃO: Os valores de SMR abaixo são EXEMPLOS! Vais ter de
 % os afinar até o output da consola dar perto dos 20, 15, 10 e 5 dB.
 casos_teste = [
-    1,  1633, 20; % Variante 1 (Branco),   Alvo: 20dB
+    1,  16,33, 20; % Variante 1 (Branco),   Alvo: 20dB
     1,  9.6, 15; % Variante 1 (Branco),   Alvo: 15dB
     1,   2, 10; % Variante 1 (Branco),   Alvo: 10dB
     1,   -6.6,  5; % Variante 1 (Branco),   Alvo: 5dB
